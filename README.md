@@ -9,4 +9,7 @@
   accelerated projected gradient descent with Huber cost function, He Liu
 # readtmx.py:
   read fortran output, Yufeng Shen
+# huber_accGD_outputs:
+  outputs from Huber_AccProjGD.ipynb
+  cap_vec and energy from different iterations from different method, for futher comaparison
   
