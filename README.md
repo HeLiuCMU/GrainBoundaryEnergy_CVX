@@ -12,4 +12,9 @@
 # huber_accGD_outputs:
   outputs from Huber_AccProjGD.ipynb
   cap_vec and energy from different iterations from different method, for futher comaparison
+# cap_vec_iteration0.res:
+  zeroth output from Adam's code
+  or just norm vector n
+  used for calculate energy from cap_vec, e = cap_vec*n 
+  
   
